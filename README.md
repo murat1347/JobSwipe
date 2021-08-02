@@ -1,4 +1,4 @@
-# jobswipe
+# jobswire
 
 A new Flutter project.
 
